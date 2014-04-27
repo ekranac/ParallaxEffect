@@ -1,0 +1,41 @@
+body
+{
+        font-family: sans-serif;
+        color:#222;
+        font-size:20px;
+        margin:0px;
+    }
+#header
+{
+    position:fixed;
+    font-size:80px;
+    color:white;
+    background-color:#222;
+    margin:0px;
+    width:100%;
+    text-align:center;
+    height:200px;
+    padding-top:100px;
+}
+#prlx
+    {
+        position:fixed;
+        background:url(../img/nodejitsu_love_github.png) no-repeat 50% 0%;
+        width: 100%;
+        height:250px;
+        border-bottom:solid 1px #222;
+        margin-top:500px;
+        z-index:-1;
+        text-align:center;
+    }
+#prlx-text
+{
+    position:absolute;
+    width:100%;
+    bottom:330px;
+    font-size:50px;
+}
+#container
+{
+    color:#abc;
+}
